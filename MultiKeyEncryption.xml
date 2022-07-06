@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\ZXZ\Desktop\MultiEncryption.jar</jar>
+  <outfile>C:\Users\ZXZ\Desktop\MultiKeyEncryption.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\ZXZ\Desktop\pngegg.ico</icon>
+  <singleInstance>
+    <mutexName>MultiKeyEncryption</mutexName>
+    <windowTitle>MultiKeyEncryption</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Encrypting(Number/PlainText) Data&apos;s</fileDescription>
+    <copyright>GhostPoltergeist (c) 2022 - CodingwithHarold</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>Multi Key Encryption</productName>
+    <companyName>DevPh [Personal Project] </companyName>
+    <internalName>Multi Key Encryption</internalName>
+    <originalFilename>MultiEncryption.exe</originalFilename>
+    <trademarks>N/A</trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
